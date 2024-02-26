@@ -36,6 +36,6 @@ Breve descrição do projeto e suas tecnologias principais.
 ## Contato
 
 - **E-mail:** artedudurty@gmail.com
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **LinkedIn:** https://www.linkedin.com/in/pedro-duarte-a142bb280/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
