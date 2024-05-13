@@ -1,3 +1,11 @@
+
+</td>
+<img src="github-header-image (2).png" width="1080px" height="200px"/></a>
+
+
+
+
+
 ### Hi there 👋
 
 # Perfil Pedro Duarte Engenharia de Software - PUC Minas
