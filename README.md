@@ -45,11 +45,4 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 
 
 
-<div align="center">
 
-```text
-ⒹⓊⒶⓇⓉⒺ
-
-```                                        
-
-</div>
