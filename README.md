@@ -36,8 +36,6 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/_pedroduarter_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-- **E-mail:** artedudurty@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/pedro-duarte-a142bb280/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
 
