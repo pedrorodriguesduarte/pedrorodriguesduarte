@@ -40,6 +40,33 @@ Welcome to my profile! 👋 I am a passionate Software Engineering student at PU
 </a>
 </div>
 
+## Github Stats  
+<div align="center">
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br"/>
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorodriguesduarte&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+ </p>
+<p> <div align="center">
+<img src="https://komarev.com/ghpvc/?username=PedroMaiaAlves&&style=flat-square" align="center" />
+</div></p>
+</div> 
+
+
+
+
+
+
+
 Feel free to explore my repositories and reach out. I'm always open to new connections and collaborations! 😊
 
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorodriguesduarte&theme=github_dark"/>
