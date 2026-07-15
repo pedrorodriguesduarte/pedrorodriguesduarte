@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner-devsider.png" width="100%" />
+<img src="banner-devsider.png" width="900"/>
 
 # Pedro Duarte
 
-### 💻 Full Stack Developer | AI Automation | Software Engineer
+### Full Stack Developer • AI Automation • Software Engineer
 
 Building scalable software, AI-powered automations and cloud solutions.
 
@@ -25,7 +25,7 @@ Currently working at **DevSider**.
 </a>
 
 <a href="https://discordapp.com/users/duarte3293">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_pedroduarter_/">
@@ -36,140 +36,138 @@ Currently working at **DevSider**.
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a **Full Stack Developer** currently working at **DevSider**, where I develop modern software solutions, AI-powered automations, cloud applications and scalable systems.
+I'm a **Full Stack Developer** currently working at **DevSider**, building AI automations, cloud solutions and scalable software.
 
-I'm passionate about technology, software architecture and artificial intelligence, always looking for better ways to automate processes and build high-quality applications.
+I enjoy designing modern applications, developing robust APIs and creating systems focused on performance, automation and user experience.
 
-Besides my professional work, I'm pursuing a degree in **Software Engineering at PUC Minas**, constantly improving my technical skills and learning new technologies.
-
----
-
-# 🚀 What I Do
-
-- 🤖 AI Automation
-- 💻 Full Stack Development
-- ☁️ Cloud Applications
-- ⚙️ REST APIs
-- 📱 Mobile Development
-- 🔄 Process Automation
-- 🗄️ Database Modeling
-- 🚀 Deployment & DevOps
+Currently pursuing a **Software Engineering** degree at **PUC Minas** while continuously improving my knowledge in software architecture, artificial intelligence and cloud technologies.
 
 ---
 
-# 🛠 Tech Stack
+# Current Focus
 
-## Languages
+- Full Stack Development
+- AI Automation
+- REST APIs
+- Cloud Applications
+- Software Architecture
+- Process Automation
+- Mobile Development
+
+---
+
+# Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs" />
 </p>
 
-## Front-end
+### Front-end
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter" />
 </p>
 
-## Back-end
+### Back-end
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
 </p>
 
-## Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-## DevOps & Cloud
+### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 </p>
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
-## Full Stack Developer — DevSider
+## DevSider
 
-Currently working on:
+**Full Stack Developer**
 
-- AI Automations
-- Cloud Solutions
+Working with:
+
+- AI Automation
 - Full Stack Applications
 - REST APIs
-- Software Architecture
+- Cloud Solutions
+- Backend Development
+- Frontend Development
 - Process Automation
-- Modern Web Applications
+- Software Architecture
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### ⚽ Football Social Network
+## Football Social Network
 
-A LinkedIn-inspired platform connecting football players, clubs and scouts.
-
----
-
-### 🤖 WhatsApp Automation Platform
-
-Automation platform capable of importing contacts, scheduling message flows and executing asynchronous processing.
+A platform inspired by LinkedIn that connects football players, clubs and scouts.
 
 ---
 
-### 📊 ContabilFlow
+## WhatsApp Automation Platform
 
-Accounting management system with complete Full Stack architecture.
+Platform for automatic messaging flows, contact import, queues and asynchronous processing.
 
 ---
 
-### 📱 FPStats
+## ContabilFlow
+
+Complete accounting management system built with modern Full Stack technologies.
+
+---
+
+## FPStats
 
 Mobile application focused on football statistics and player information.
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Statistics
 
 <div align="center">
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=github_dark&count_private=true"/>
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&langs_count=8&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Summary
+# GitHub Summary
 
 <div align="center">
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorodriguesduarte&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorodriguesduarte&theme=github_dark"/>
 
 <br><br>
 
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrorodriguesduarte&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrorodriguesduarte&theme=github_dark"/>
 
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorodriguesduarte&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorodriguesduarte&theme=github_dark"/>
 
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrorodriguesduarte&theme=github_dark&utcOffset=-3"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrorodriguesduarte&theme=github_dark&utcOffset=-3"/>
 
 </div>
 
 ---
 
-# 📫 Contact
+# Contact
 
 <div align="center">
 
@@ -191,8 +189,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorodrigu
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=pedrorodriguesduarte&style=for-the-badge)
-
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=pedrorodriguesduarte&style=for-the-badge"/>
 
 </div>
