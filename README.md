@@ -85,7 +85,7 @@
 <div align="center">
 
 ### 📈 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=react-dark&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/get-profile-card?username=pedrorodriguesduarte&theme=github_dark"/>
 
 </div>
 
