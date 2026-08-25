@@ -60,6 +60,28 @@
 | 📊 **ContabilFlow** | Modern accounting management platform streamlining enterprise workflows. | `React` `NestJS` `PostgreSQL` | 🟢 Active |
 | 📱 **FPStats** | Mobile app dedicated to real-time football performance metrics and statistics. | `Flutter` `REST API` | 🟢 Active |
 
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/pedrorodriguesduarte">
+  <img align="center" src="https://github-readme-stats-two.vercel.app/api/pin/?username=pedrorodriguesduarte&repo=pedrorodriguesduarte&theme=dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📝 Guestbook / Livro de Visitas
+
+<div align="center">
+
+✍️ **Deixe uma mensagem ou feedback no meu perfil!**
+
+[![Sign My Guestbook](https://img.shields.io/badge/✍️_Sign_Guestbook-Click_Here-0077B5?style=for-the-badge)](https://github.com/pedrorodriguesduarte/pedrorodriguesduarte/issues/new?title=Guestbook+Entry&body=Escreva+sua+mensagem+aqui!)
+
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -107,7 +129,7 @@
 
 <div align="center">
 
-👀 **Profile Views:**  
-<img src="https://komarev.com/ghpvc/?username=pedrorodriguesduarte&style=for-the-badge&color=0077B5"/>
+### 🎰 Visitor Count
+<img src="https://profile-counter.glitch.me/pedrorodriguesduarte/count.svg" alt="Visitor Count" />
 
 </div>
