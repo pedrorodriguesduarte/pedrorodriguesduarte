@@ -52,17 +52,11 @@
 ## 📚 Reading List / Tech Books
 
 <p align="center">
-  <a href="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg">
-    <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="180" alt="Entendendo Algoritmos" />
-  </a>
+  <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="170" alt="Entendendo Algoritmos" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://m.media-amazon.com/images/I/71T1yVn8SUL._AC_UF1000,1000_QL80_.jpg">
-    <img src="https://m.media-amazon.com/images/I/71T1yVn8SUL._AC_UF1000,1000_QL80_.jpg" width="180" alt="Clean Code" />
-  </a>
+  <img src="https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg" width="170" alt="Clean Code" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://m.media-amazon.com/images/I/61S-fWpZ0XL._AC_UF1000,1000_QL80_.jpg">
-    <img src="https://m.media-amazon.com/images/I/61S-fWpZ0XL._AC_UF1000,1000_QL80_.jpg" width="180" alt="IA - Nick Polson" />
-  </a>
+  <img src="https://books.google.com/books/content?id=eByfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width="170" alt="IA - Nick Polson" />
 </p>
 
 <div align="center">
