@@ -60,16 +60,6 @@
 | 📊 **ContabilFlow** | Modern accounting management platform streamlining enterprise workflows. | `React` `NestJS` `PostgreSQL` | 🟢 Active |
 | 📱 **FPStats** | Mobile app dedicated to real-time football performance metrics and statistics. | `Flutter` `REST API` | 🟢 Active |
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/pedrorodriguesduarte">
-  <img align="center" src="https://github-readme-stats-two.vercel.app/api/pin/?username=pedrorodriguesduarte&repo=pedrorodriguesduarte&theme=dark&hide_border=true" />
-</a>
-
-</div>
-
 ---
 
 ## 📝 Guestbook / Livro de Visitas
@@ -88,8 +78,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-two.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -97,17 +87,8 @@
 
 <div align="center">
 
-### 📈 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorodriguesduarte&theme=dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Activity Graph
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/get-profile-card?username=pedrorodriguesduarte&theme=github_dark"/>
+### 📈 Contribution Streak & Activity
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -130,6 +111,6 @@
 <div align="center">
 
 ### 🎰 Visitor Count
-<img src="https://profile-counter.glitch.me/pedrorodriguesduarte/count.svg" alt="Visitor Count" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpedrorodriguesduarte&count_bg=%230077B5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
 
 </div>
