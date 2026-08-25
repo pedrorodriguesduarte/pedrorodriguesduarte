@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Banner Animado de Alta Qualidade -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D2FF&height=220&section=header&text=Pedro%20Duarte&fontSize=50&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=70" width="100%"/>
+<img src="banner-devsider.png" width="800"/>
+
+# 🚀 Pedro Duarte
+### **Full Stack Developer • AI Automation • Software Engineer**
+
+*Building scalable software, AI-powered automations, and cloud solutions.*
 
 <br/>
 
@@ -48,11 +52,11 @@
 ## 📚 Reading List / Tech Books
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/main/entendendo-algoritmos.jpg" onerror="this.onerror=null; this.src='https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg';" width="170" alt="Entendendo Algoritmos" />
+  <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="170" alt="Entendendo Algoritmos" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg" width="170" alt="Clean Code" />
+  <img src="https://m.media-amazon.com/images/I/71T1yVn8SUL._AC_UF1000,1000_QL80_.jpg" width="170" alt="Clean Code" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://covers.openlibrary.org/b/isbn/9780137081073-L.jpg" width="170" alt="IA - Nick Polson" />
+  <img src="https://m.media-amazon.com/images/I/61S-fWpZ0XL._AC_UF1000,1000_QL80_.jpg" width="170" alt="IA - Nick Polson" />
 </p>
 
 <div align="center">
@@ -61,7 +65,7 @@
 | :--- | :--- | :--- |
 | **Entendendo Algoritmos** | Aditya Y. Bhargava | Estruturas de Dados & Algoritmos Ilustrados |
 | **Clean Code** | Robert C. Martin | Boas Práticas, Refatoração & Arquitetura |
-| **IA (Inteligência Artificial - AIQ)** | Nick Polson & James Scott | Fundamentos, Dados e O Futuro da Automação |
+| **IA (Inteligência Artificial)** | Nick Polson & James Scott | Fundamentos, Dados e O Futuro da Automação |
 
 </div>
 
