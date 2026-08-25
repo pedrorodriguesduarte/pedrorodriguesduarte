@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-two.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -80,8 +80,12 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
 ### 📈 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=react-dark&hide_border=true"/>
 
 </div>
 
