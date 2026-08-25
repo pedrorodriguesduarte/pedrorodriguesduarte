@@ -49,28 +49,6 @@
 
 ---
 
-## 📚 Reading List / Tech Books
-
-<p align="center">
-  <img src="entendendo-algoritmos.jpg" width="170" alt="Entendendo Algoritmos" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="clean-code.jpg" width="170" alt="Código Limpo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ia-nick-polson.jpg" width="170" alt="IA - Nick Polson" />
-</p>
-
-<div align="center">
-
-| Livro | Autor | Tópico Principal |
-| :--- | :--- | :--- |
-| **Entendendo Algoritmos** | Aditya Y. Bhargava | Estruturas de Dados & Algoritmos Ilustrados |
-| **Código Limpo (Clean Code)** | Robert C. Martin | Boas Práticas, Refatoração & Arquitetura |
-| **Inteligência Artificial** | Nick Polson & James Scott | Como Funciona e Aplicações Práticas |
-
-</div>
-
----
-
 ## 📂 Featured Projects
 
 <br/>
