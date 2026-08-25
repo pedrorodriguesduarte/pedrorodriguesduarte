@@ -27,20 +27,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <details open>
@@ -90,35 +76,21 @@
 <div align="center">
 
 ### 📈 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=github-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-<details>
-<summary><b>🔍 View More: Advanced 3D Metrics Dashboard</b></summary>
-<br/>
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-> Powered by **Lowlighter Metrics** GitHub Action to render an isometric commit calendar, detailed followers stats, and activity breakdowns.
-
-<img src="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</div>
-
-</details>
-
----
-
-## 🎵 Currently Playing on Spotify
-
-<div align="center">
-
-<a href="https://spotify-github-profile.theme-v2.now.sh/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novadark&show_offline=true&background_color=121212&interactivity=true">
-  <img src="https://spotify-github-profile.theme-v2.now.sh/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novadark&show_offline=true&background_color=121212&interactivity=true" alt="Spotify Player" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrorodriguesduarte/pedrorodriguesduarte/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
