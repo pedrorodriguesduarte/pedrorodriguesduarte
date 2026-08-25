@@ -78,8 +78,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api?username=pedrorodriguesduarte&show_icons=true&theme=dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-git-master-anurag-hazras-projects.vercel.app/api/top-langs/?username=pedrorodriguesduarte&layout=compact&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/get-profile-card?username=pedrorodriguesduarte&theme=github_dark"/>
 
 </div>
 
@@ -87,8 +86,8 @@
 
 <div align="center">
 
-### 📈 Contribution Streak & Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorodriguesduarte&theme=react-dark&hide_border=true"/>
+### 📈 Profile Overview
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pedrorodriguesduarte&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
