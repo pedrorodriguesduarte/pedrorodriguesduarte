@@ -49,6 +49,34 @@
 
 ---
 
+## 📚 Reading List / Tech Books
+
+<p align="center">
+  <a href="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg">
+    <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg" width="180" alt="Entendendo Algoritmos" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://m.media-amazon.com/images/I/71T1yVn8SUL._AC_UF1000,1000_QL80_.jpg">
+    <img src="https://m.media-amazon.com/images/I/71T1yVn8SUL._AC_UF1000,1000_QL80_.jpg" width="180" alt="Clean Code" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://m.media-amazon.com/images/I/61S-fWpZ0XL._AC_UF1000,1000_QL80_.jpg">
+    <img src="https://m.media-amazon.com/images/I/61S-fWpZ0XL._AC_UF1000,1000_QL80_.jpg" width="180" alt="IA - Nick Polson" />
+  </a>
+</p>
+
+<div align="center">
+
+| Livro | Autor | Tópico Principal |
+| :--- | :--- | :--- |
+| **Entendendo Algoritmos** | Aditya Y. Bhargava | Estruturas de Dados & Algoritmos Ilustrados |
+| **Clean Code** | Robert C. Martin | Boas Práticas, Refatoração & Arquitetura |
+| **IA (Inteligência Artificial)** | Nick Polson & James Scott | Fundamentos, Dados e O Futuro da Automação |
+
+</div>
+
+---
+
 ## 📂 Featured Projects
 
 <br/>
@@ -69,25 +97,6 @@
 ✍️ **Deixe uma mensagem ou feedback no meu perfil!**
 
 [![Sign My Guestbook](https://img.shields.io/badge/✍️_Sign_Guestbook-Click_Here-0077B5?style=for-the-badge)](https://github.com/pedrorodriguesduarte/pedrorodriguesduarte/issues/new?title=Guestbook+Entry&body=Escreva+sua+mensagem+aqui!)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/get-profile-card?username=pedrorodriguesduarte&theme=github_dark"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Profile Overview
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pedrorodriguesduarte&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
